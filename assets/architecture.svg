@@ -41,6 +41,54 @@
   <rect width="1200" height="590" rx="22" fill="url(#background)"/>
   <rect width="1200" height="590" rx="22" fill="url(#grid)"/>
   <rect width="1200" height="590" rx="22" fill="url(#ambient)"/>
+  <g stroke="#36BDF2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g stroke-width="1.2" stroke-opacity=".24">
+      <path d="M0 132h18v-22h40v-20h31"/>
+      <path d="M0 155h12v18h37v27h23"/>
+      <path d="M0 260h25v-17h25v-21h26"/>
+      <path d="M0 282h15v25h31v16h26"/>
+      <path d="M0 396h25v-21h42v-19h24"/>
+      <path d="M0 419h14v19h38v22h27"/>
+      <path d="M0 518h24v-18h35v-18h31"/>
+      <path d="M1200 126h-18v-20h-41v-18h-29"/>
+      <path d="M1200 151h-12v20h-36v25h-25"/>
+      <path d="M1200 258h-24v-18h-26v-20h-27"/>
+      <path d="M1200 284h-15v22h-34v18h-27"/>
+      <path d="M1200 398h-24v-22h-41v-18h-25"/>
+      <path d="M1200 421h-14v18h-38v23h-26"/>
+      <path d="M1200 518h-24v-18h-35v-18h-31"/>
+    </g>
+    <g stroke="#758BFF" stroke-width="1" stroke-opacity=".18">
+      <path d="M92 0v17h30v19h21"/>
+      <path d="M114 0v10h29v20h23"/>
+      <path d="M1108 0v16h-29v20h-22"/>
+      <path d="M1085 0v10h-29v19h-22"/>
+      <path d="M92 590v-17h30v-19h21"/>
+      <path d="M114 590v-10h29v-20h23"/>
+      <path d="M1108 590v-16h-29v-20h-22"/>
+      <path d="M1085 590v-10h-29v-19h-22"/>
+    </g>
+    <g stroke-width="1" stroke-opacity=".3">
+      <circle cx="89" cy="90" r="3"/>
+      <circle cx="72" cy="200" r="2.5"/>
+      <circle cx="76" cy="222" r="2.5"/>
+      <circle cx="70" cy="325" r="2.5"/>
+      <circle cx="91" cy="356" r="2.5"/>
+      <circle cx="79" cy="460" r="2.5"/>
+      <circle cx="90" cy="482" r="3"/>
+      <circle cx="1111" cy="88" r="3"/>
+      <circle cx="1127" cy="198" r="2.5"/>
+      <circle cx="1123" cy="220" r="2.5"/>
+      <circle cx="1129" cy="324" r="2.5"/>
+      <circle cx="1108" cy="356" r="2.5"/>
+      <circle cx="1120" cy="460" r="2.5"/>
+      <circle cx="1109" cy="482" r="3"/>
+      <circle cx="143" cy="36" r="2.5"/>
+      <circle cx="1056" cy="29" r="2.5"/>
+      <circle cx="143" cy="554" r="2.5"/>
+      <circle cx="1056" cy="551" r="2.5"/>
+    </g>
+  </g>
   <path d="M40 105h1120M40 378h1120M40 550h1120" stroke="#55CFFF" stroke-opacity=".12"/>
   <path d="M40 0v590M1160 0v590" stroke="#55CFFF" stroke-opacity=".09"/>
 
