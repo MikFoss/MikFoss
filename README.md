@@ -91,23 +91,36 @@ The goal is not “more AI.” The goal is better systems.
 </tr>
 </table>
 
-Current focus
-SYSTEMS ONLINE
-├─ D365 FSCM architecture & implementation
-├─ Warehouse Management / Warehouse-only mode
-├─ Supply chain planning applications
-├─ MCP + agent orchestration
-├─ Human-in-the-loop validation
-├─ React / TypeScript enterprise UX
-└─ Converting repeated AI behavior into reusable capability
-How I work
-└─Principle	What it means in practice
- └─People first	Start with users, decisions, ownership, and outcomes.
-  └─Process first	Understand the workflow before automating it.
-   └─Deterministic by default	If software or rules can solve it reliably, use them.
-    └─AI earns the call	Use intelligence where judgment, interpretation, or synthesis is actually needed.
-     └─Validation matters	Make outputs inspectable before they affect the business.
-      └─Build for reuse	Turn successful behavior into maintainable capability.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 Operating Principles
+*How I approach architecture and delivery:*
+
+- **People first** — Start with users, decisions, ownership, and outcomes.
+- **Process first** — Understand the workflow before automating it.
+- **Deterministic by default** — If software or rules can solve it reliably, use them.
+- **AI earns the call** — Use intelligence where judgment, interpretation, or synthesis is actually needed.
+- **Validation matters** — Make outputs inspectable before they affect the business.
+- **Build for reuse** — Turn successful behavior into maintainable capability.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+*What I'm actively designing and building:*
+
+- **D365 FSCM & WMS** — Architecture, delivery, and Warehouse-only mode
+- **Supply Chain Planning** — Decision support and inventory visibility tools
+- **Agent Tooling** — MCP orchestration, agent workflows, and evals
+- **Human-in-the-Loop** — Inspectable AI validation before business execution
+- **Enterprise UX** — React & TypeScript business applications
+- **Prompt to Software** — Converting repeated AI behavior into reusable capability
+
+</td>
+</tr>
+</table>
 
 
 ## Engineering + Data Toolkit
