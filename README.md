@@ -34,6 +34,15 @@ Tools around the system
   <img src="./assets/architecture.svg" alt="Architecture approach" width="100%">
 </p>
 
+<p align="center"><strong>A few familiar moments in enterprise delivery</strong></p>
+<table>
+<tr>
+<td width="33%" align="center"><img src="./assets/scope.gif" alt="A tiny request grows to include validation, approvals, and edge cases." width="100%"></td>
+<td width="33%" align="center"><img src="./assets/decision.gif" alt="Use automation for repeatable rules and AI when judgment is needed." width="100%"></td>
+<td width="33%" align="center"><img src="./assets/integration.gif" alt="A WMS-to-ERP-to-planning integration checklist grows from units to timing, exceptions, and ownership." width="100%"></td>
+</tr>
+</table>
+
 Featured work
 <table>
 <tr>
