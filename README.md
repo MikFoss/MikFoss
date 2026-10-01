@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Mike Foss - Enterprise Solution Architect" src="./assets/hero-dark.svg" width="100%">
-</picture>
+<p align="center">
+  <img src="./assets/hero.png" alt="Mike Foss, Enterprise Solution Architect: people-first, process-first, deterministic systems that bring automation and AI together." width="100%">
+</p>
 
 
 I design enterprise systems that turn messy business reality into clear, maintainable, repeatable capability.
