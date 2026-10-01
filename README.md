@@ -15,8 +15,7 @@ My work sits at the intersection of **enterprise solution architecture, supply c
 
 I care less about shiny technology than whether a solution is **understandable, secure, supportable, measurable, maintainable, and actually useful to the people running the business**.
 
-<p align="center">
-<table>
+<table align="center" width="99%">
 <tr>
 <td width="25%" align="center">
 <strong>BUSINESS</strong><br>
@@ -36,7 +35,7 @@ I care less about shiny technology than whether a solution is **understandable, 
 </td>
 </tr>
 </table>
-</p>
+
 ---
 
 # Business + Technology Architecture
@@ -57,7 +56,7 @@ The goal is not technology for its own sake. The goal is **useful, supportable e
 
 I use Microsoft's end-to-end business process model as a practical way to connect **business outcomes, requirements, solution architecture, configuration, testing, and delivery**.
 
-<table>
+<table align="center" width="99%">
 <tr>
 <td width="33%" align="center"><code>Acquire to dispose</code></td>
 <td width="33%" align="center"><code>Case to resolution</code></td>
