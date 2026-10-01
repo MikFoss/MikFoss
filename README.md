@@ -2,7 +2,7 @@
   <img src="./assets/hero.png" alt="Mike Foss, Enterprise Solution Architect: people-first, process-first, deterministic systems that bring automation and AI together." width="100%">
 </p>
 
-<p align="center"><strong>People | Process | Tecnology</strong></p>
+<p align="center"><strong>People | Process | Tecnology ." width="100%"></strong></p>
 
 I design enterprise systems that turn messy business reality into clear, maintainable, repeatable capability.
 My work sits at the intersection of solution architecture, supply chain, Dynamics 365 Finance & Supply Chain Management, Power Platform, automation, and AI-assisted applications. I care less about shiny technology than whether a solution is understandable, secure, supportable, measurable, and actually useful to the people running the business.
@@ -21,13 +21,13 @@ Microsoft's end-to-end Business Process Catalog describes work across applicatio
 ### Dynamics 365 + Microsoft business applications
 
 **Dynamics 365 Finance & Supply Chain Management**<br>
-Finance · Procurement · Sales · Inventory · Advanced Warehouse Management · Warehouse-only mode · Manufacturing · Planning Optimization · Asset Management · Transportation · Product Information Management · Cost Management · Landed Cost · Project Operations · Commerce · Retail
+└─Finance · └─Procurement · └─Sales · └─Inventory · └─Advanced Warehouse Management · └─Warehouse-only mode · └─Manufacturing · └─Planning Optimization · └─Asset Management · └─Transportation · └─Product Information Management · └─Cost Management · └─Landed Cost · └─Project Operations · └─Commerce · Retail
 
 **Power Platform**<br>
-Power Apps · Power Automate · Power BI · Dataverse · Copilot Studio · Custom Connectors · Solution Architecture · ALM
+└─Power Apps · └─Power Automate · └─Power BI · └─Dataverse · └─Copilot Studio · └─Custom Connectors · └─Solution Architecture · └─ALM
 
 **Enterprise integration & delivery**<br>
-Azure DevOps · GitHub · REST APIs · OData · Data Entities · Dual-write · Integration Architecture · Data Migration · Environment Strategy · Application Lifecycle Management · Testing & Release Management
+└─Azure DevOps · └─GitHub · └─REST APIs · └─OData · └─Data Entities · └─Dual-write · └─Integration Architecture · └─Data Migration · └─Environment Strategy · └─Application Lifecycle Management · └─Testing & Release Management
 
 ### A few familiar moments in enterprise delivery
 
@@ -39,7 +39,7 @@ Azure DevOps · GitHub · REST APIs · OData · Data Entities · Dual-write · I
 </tr>
 </table>
 
-Featured work
+POC's or Not Just some Projects I am working on in free time 
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -100,13 +100,13 @@ SYSTEMS ONLINE
 ├─ React / TypeScript enterprise UX
 └─ Converting repeated AI behavior into reusable capability
 How I work
-Principle	What it means in practice
-People first	Start with users, decisions, ownership, and outcomes.
-Process first	Understand the workflow before automating it.
-Deterministic by default	If software or rules can solve it reliably, use them.
-AI earns the call	Use intelligence where judgment, interpretation, or synthesis is actually needed.
-Validation matters	Make outputs inspectable before they affect the business.
-Build for reuse	Turn successful behavior into maintainable capability.
+└─Principle	What it means in practice
+ └─People first	Start with users, decisions, ownership, and outcomes.
+  └─Process first	Understand the workflow before automating it.
+   └─Deterministic by default	If software or rules can solve it reliably, use them.
+    └─AI earns the call	Use intelligence where judgment, interpretation, or synthesis is actually needed.
+     └─Validation matters	Make outputs inspectable before they affect the business.
+      └─Build for reuse	Turn successful behavior into maintainable capability.
 
 
 ## Engineering + Data Toolkit
