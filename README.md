@@ -197,13 +197,10 @@ Because every enterprise project eventually produces one of these moments.
 <sub>Knowledge • Intelligence • Validation • Orchestration</sub>
 
 <br><br>
-
 A people-first, process-first architecture for building AI-assisted systems without turning every problem into an LLM call.
-
 <br><br>
 
 <strong>Focus</strong>
-
 <ul>
 <li>Deterministic-by-default execution</li>
 <li>Human approval gates</li>
@@ -220,13 +217,10 @@ A people-first, process-first architecture for building AI-assisted systems with
 <sub>Making enterprise delivery easier to understand and operate</sub>
 
 <br><br>
-
 Tools, accelerators, utilities, and experiments around the Dynamics 365 implementation lifecycle.
-
 <br><br>
 
 <strong>Examples</strong>
-
 <ul>
 <li>ADO control and backlog tooling</li>
 <li>FDD / SDD generation workflows</li>
@@ -234,6 +228,7 @@ Tools, accelerators, utilities, and experiments around the Dynamics 365 implemen
 <li>Warehouse and planning utilities</li>
 <li>Testing automation</li>
 <li>Environment and configuration tooling</li>
+
 </ul>
 
 </td>
