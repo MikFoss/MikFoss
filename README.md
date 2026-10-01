@@ -90,7 +90,7 @@ I use Microsoft's end-to-end business process model as a practical way to connec
 
 ## Microsoft Business Applications
 
-<table>
+<table align="center" width="99%">
 <tr>
 <td width="33%" valign="top">
 
@@ -160,7 +160,7 @@ I use Microsoft's end-to-end business process model as a practical way to connec
 
 Because every enterprise project eventually produces one of these moments.
 
-<table>
+<table align="center" width="99%">
 <tr>
 <td width="33%" align="center" valign="top">
 <img src="./assets/scope.gif" alt="A tiny request grows to include validation, approvals, and edge cases." width="100%"><br><br>
@@ -189,7 +189,7 @@ Because every enterprise project eventually produces one of these moments.
 <sub>Some stay experiments. Some become software. All start with a real problem worth solving.</sub>
 </p>
 
-<table>
+<table align="center" width="99%">
 <tr>
 <td width="50%" valign="top">
 
@@ -289,7 +289,7 @@ The goal is <strong>better systems</strong>.
 
 ---
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 
@@ -404,7 +404,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 
 <br>
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 
