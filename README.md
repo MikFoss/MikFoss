@@ -62,7 +62,7 @@ AI-Assisted Systems
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.svg" width="100%" alt="">
+  <img src="./assets/divider-major.png" width="100%" alt="">
 </p>
 
 # Business + Technology Architecture
@@ -100,7 +100,7 @@ The goal is not technology for its own sake. The goal is **useful, supportable e
 <br>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="./assets/divider.png" width="100%" alt="">
 </p>
 
 ## Dynamics 365 Business Process Architecture
@@ -152,7 +152,7 @@ I use Microsoft's end-to-end business process model as a practical map for conne
 <br>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="./assets/divider.png" width="100%" alt="">
 </p>
 
 ## Dynamics 365 + Microsoft Business Applications
@@ -238,7 +238,7 @@ I use Microsoft's end-to-end business process model as a practical map for conne
 <br>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="./assets/divider.png" width="100%" alt="">
 </p>
 
 ## Enterprise Delivery, Illustrated
@@ -282,7 +282,7 @@ Reasoning when reasoning adds value.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.svg" width="100%" alt="">
+  <img src="./assets/divider-major.png" width="100%" alt="">
 </p>
 
 # Build Lab
@@ -405,7 +405,7 @@ The goal is <strong>better systems</strong>.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-subtle.svg" width="100%" alt="">
+  <img src="./assets/divider-subtle.png" width="100%" alt="">
 </p>
 
 ## How I Build
@@ -493,7 +493,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.svg" width="100%" alt="">
+  <img src="./assets/divider-major.png" width="100%" alt="">
 </p>
 
 # Engineering + Data Toolkit
@@ -539,7 +539,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-subtle.svg" width="100%" alt="">
+  <img src="./assets/divider-subtle.png" width="100%" alt="">
 </p>
 
 <table align="center" width="100%">
@@ -686,7 +686,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="./assets/divider.png" width="100%" alt="">
 </p>
 
 ## Tools I Reach For
@@ -740,7 +740,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.svg" width="100%" alt="">
+  <img src="./assets/divider-major.png" width="100%" alt="">
 </p>
 
 # Elsewhere
@@ -756,7 +756,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-subtle.svg" width="100%" alt="">
+  <img src="./assets/divider-subtle.png" width="100%" alt="">
 </p>
 
 <br>
