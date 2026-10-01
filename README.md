@@ -22,7 +22,7 @@ Microsoft's end-to-end Business Process Catalog describes work across applicatio
 ### Dynamics 365 + Microsoft business applications
 
 **Dynamics 365 Finance & Supply Chain Management**<br>
-└─Finance · └─Procurement · └─Sales · └─Inventory · └─Advanced Warehouse Management · └─Warehouse-only mode · └─Manufacturing · └─Planning Optimization · └─Asset Management · └─Transportation · └─Product Information Management · └─Cost Management · └─Landed Cost · └─Project Operations · └─Commerce · Retail
+└─Finance · └─Procurement · └─Sales · └─Inventory · └─Advanced Warehouse Management · └─Warehouse-only mode · └─Manufacturing · └─Planning Optimization · └─Asset Management · └─Transportation · └─Product Information Management · └─Cost Management · └─Landed Cost · └─Project Operations · └─Commerce/Retail
 
 **Power Platform**<br>
 └─Power Apps · └─Power Automate · └─Power BI · └─Dataverse · └─Copilot Studio · └─Custom Connectors · └─Solution Architecture · └─ALM
