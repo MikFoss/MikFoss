@@ -62,7 +62,7 @@ AI-Assisted Systems
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.png" width="100%" alt="">
+  <img src="./assets/divider-major.svg" width="100%" alt="">
 </p>
 
 # Business + Technology Architecture
@@ -100,16 +100,14 @@ The goal is not technology for its own sake. The goal is **useful, supportable e
 <br>
 
 <p align="center">
-  <img src="./assets/divider.png" width="100%" alt="">
+  <img src="./assets/divider.svg" width="100%" alt="">
 </p>
 
 ## Dynamics 365 Business Process Architecture
 
 I use Microsoft's end-to-end business process model as a practical map for connecting:
 
-<p align="center">
-<strong>Business Outcomes → Requirements → Solution Architecture → Configuration → Integration → Testing → Adoption</strong>
-</p>
+**Business outcomes → Requirements → Solution architecture → Configuration → Integration → Testing → Adoption**
 
 <br>
 
@@ -154,7 +152,7 @@ I use Microsoft's end-to-end business process model as a practical map for conne
 <br>
 
 <p align="center">
-  <img src="./assets/divider.png" width="100%" alt="">
+  <img src="./assets/divider.svg" width="100%" alt="">
 </p>
 
 ## Dynamics 365 + Microsoft Business Applications
@@ -240,7 +238,7 @@ I use Microsoft's end-to-end business process model as a practical map for conne
 <br>
 
 <p align="center">
-  <img src="./assets/divider.png" width="100%" alt="">
+  <img src="./assets/divider.svg" width="100%" alt="">
 </p>
 
 ## Enterprise Delivery, Illustrated
@@ -284,13 +282,13 @@ Reasoning when reasoning adds value.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.png" width="100%" alt="">
+  <img src="./assets/divider-major.svg" width="100%" alt="">
 </p>
 
 # Build Lab
 
 <p align="center">
-  <strong>POCs • Prototypes • Experiments • Tools • After-hours Builds</strong><br>
+  <strong>POCs • Prototypes • Experiments • Tools • After-hours builds</strong><br>
   <sub>Some stay experiments. Some become software. All start with a real problem worth solving.</sub>
 </p>
 
@@ -407,7 +405,7 @@ The goal is <strong>better systems</strong>.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-subtle.png" width="100%" alt="">
+  <img src="./assets/divider-subtle.svg" width="100%" alt="">
 </p>
 
 ## How I Build
@@ -495,7 +493,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.png" width="100%" alt="">
+  <img src="./assets/divider-major.svg" width="100%" alt="">
 </p>
 
 # Engineering + Data Toolkit
@@ -541,7 +539,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-subtle.png" width="100%" alt="">
+  <img src="./assets/divider-subtle.svg" width="100%" alt="">
 </p>
 
 <table align="center" width="100%">
@@ -688,7 +686,7 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider.png" width="100%" alt="">
+  <img src="./assets/divider.svg" width="100%" alt="">
 </p>
 
 ## Tools I Reach For
@@ -697,63 +695,43 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <tr>
 
 <td width="25%" align="center" valign="top">
-
-<strong>BUILD</strong>
-
-<br><br>
-
+<strong>BUILD</strong><br><br>
 <code>Python</code><br>
 <code>TypeScript</code><br>
 <code>JavaScript</code><br>
 <code>React</code><br>
 <code>Vite</code><br>
 <code>Next.js</code>
-
 </td>
 
 <td width="25%" align="center" valign="top">
-
-<strong>DATA</strong>
-
-<br><br>
-
+<strong>DATA</strong><br><br>
 <code>SQL</code><br>
 <code>Power Query</code><br>
 <code>Power BI</code><br>
 <code>Excel</code><br>
 <code>VBA</code><br>
 <code>ETL</code>
-
 </td>
 
 <td width="25%" align="center" valign="top">
-
-<strong>DELIVER</strong>
-
-<br><br>
-
+<strong>DELIVER</strong><br><br>
 <code>Azure DevOps</code><br>
 <code>GitHub</code><br>
 <code>GitHub Actions</code><br>
 <code>ALM</code><br>
 <code>Testing</code><br>
 <code>Documentation</code>
-
 </td>
 
 <td width="25%" align="center" valign="top">
-
-<strong>EXTEND</strong>
-
-<br><br>
-
+<strong>EXTEND</strong><br><br>
 <code>APIs</code><br>
 <code>OData</code><br>
 <code>Dataverse</code><br>
 <code>MCP</code><br>
 <code>Agents</code><br>
 <code>Automation</code>
-
 </td>
 
 </tr>
@@ -762,23 +740,23 @@ Turning repeated AI behavior into deterministic, reusable capability.
 <br>
 
 <p align="center">
-  <img src="./assets/divider-major.png" width="100%" alt="">
+  <img src="./assets/divider-major.svg" width="100%" alt="">
 </p>
 
 # Elsewhere
 
 <p align="center">
 
-🌐 **[Fossome](https://fossome.net)**
-💼 **[LinkedIn](https://www.linkedin.com/in/mike-foss-5507a235/)**
-🧭 **GitHub:** you found it
+🌐 **[Fossome](https://fossome.net)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/mike-foss-5507a235/)**  
+🧭 **GitHub:** you are already here
 
 </p>
 
 <br>
 
 <p align="center">
-  <img src="./assets/divider-subtle.png" width="100%" alt="">
+  <img src="./assets/divider-subtle.svg" width="100%" alt="">
 </p>
 
 <br>
