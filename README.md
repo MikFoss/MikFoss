@@ -2,7 +2,7 @@
   <img src="./assets/hero.png" alt="Mike Foss, Enterprise Solution Architect: people-first, process-first, deterministic systems that bring automation and AI together." width="100%">
 </p>
 
-<p align="center"><strong>Presenter &amp; Trainer · Microsoft Partner · Dynamics 365 Business Process Catalog Expert · Azure DevOps Expert</strong></p>
+<p align="center"><strong>People | Process | Tecnology</strong></p>
 
 I design enterprise systems that turn messy business reality into clear, maintainable, repeatable capability.
 My work sits at the intersection of solution architecture, supply chain, Dynamics 365 Finance & Supply Chain Management, Power Platform, automation, and AI-assisted applications. I care less about shiny technology than whether a solution is understandable, secure, supportable, measurable, and actually useful to the people running the business.
