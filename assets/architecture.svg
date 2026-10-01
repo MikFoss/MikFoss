@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">People-first enterprise architecture</title>
+  <desc id="description">A connected flow from people through process, systems, and automation to AI, set against a dark technical backdrop.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050B13"/>
+      <stop offset=".55" stop-color="#071522"/>
+      <stop offset="1" stop-color="#08101F"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102538" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#091522" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#29BFFF" stop-opacity=".28"/>
+      <stop offset=".5" stop-color="#64D7FF"/>
+      <stop offset="1" stop-color="#638CFF" stop-opacity=".42"/>
+    </linearGradient>
+    <radialGradient id="ambient" cx="0" cy="0" r="1" gradientTransform="matrix(470 0 0 210 620 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#087CC3" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#087CC3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0v36" stroke="#4CA7D1" stroke-opacity=".08"/>
+      <circle cx="1" cy="1" r="1" fill="#51C9FF" fill-opacity=".2"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="m1 1 7 4-7 4" stroke="#55CFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="460" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="460" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="460" rx="22" fill="url(#ambient)"/>
+  <path d="M0 88h1200M0 380h1200" stroke="#55CFFF" stroke-opacity=".12"/>
+  <path d="M52 0v460M1148 0v460" stroke="#55CFFF" stroke-opacity=".1"/>
+
+  <text x="600" y="55" fill="#F3F8FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3" text-anchor="middle">FROM BUSINESS INTENT TO CAPABILITY</text>
+  <text x="600" y="78" fill="#91AFC4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing=".4" text-anchor="middle">Start with people. Make the work clear. Build systems that scale.</text>
+
+  <path d="M225 230h76m174 0h76m174 0h76m174 0h76" stroke="url(#edge)" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M225 230h76m174 0h76m174 0h76m174 0h76" stroke="#50CFFF" stroke-opacity=".36" stroke-width="7" filter="url(#glow)"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(52 142)">
+      <rect width="174" height="176" rx="15" fill="url(#panel)" stroke="#3EBFFF" stroke-opacity=".72"/>
+      <rect x=".5" y=".5" width="173" height="175" rx="14.5" stroke="#A4E9FF" stroke-opacity=".08"/>
+      <circle cx="87" cy="46" r="23" fill="#0B2639" stroke="#4BCBFF" stroke-opacity=".45"/>
+      <circle cx="87" cy="39" r="7" stroke="#62D4FF" stroke-width="2"/>
+      <path d="M73 62c0-8 6-14 14-14s14 6 14 14M64 58c0-6 4-10 10-10m36 10c0-6-4-10-10-10M61 66c0-5 4-8 9-8m43 8c0-5-4-8-9-8" stroke="#62D4FF" stroke-width="2" stroke-linecap="round"/>
+      <text x="87" y="108" fill="#F4FAFF" font-size="18" font-weight="650">People</text>
+      <text x="87" y="133" fill="#9BB8CB" font-size="12">Needs, decisions, outcomes</text>
+      <text x="87" y="155" fill="#4FCBFF" font-size="10" font-weight="700" letter-spacing="1.5">UNDERSTAND</text>
+    </g>
+    <g transform="translate(302 142)">
+      <rect width="174" height="176" rx="15" fill="url(#panel)" stroke="#3EBFFF" stroke-opacity=".72"/>
+      <rect x=".5" y=".5" width="173" height="175" rx="14.5" stroke="#A4E9FF" stroke-opacity=".08"/>
+      <circle cx="87" cy="46" r="23" fill="#0B2639" stroke="#4BCBFF" stroke-opacity=".45"/>
+      <path d="m87 30 17 9-17 9-17-9 17-9Zm-17 17 17 9 17-9m-34 9 17 9 17-9" stroke="#62D4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="87" y="108" fill="#F4FAFF" font-size="18" font-weight="650">Process</text>
+      <text x="87" y="133" fill="#9BB8CB" font-size="12">Clear, owned workflows</text>
+      <text x="87" y="155" fill="#4FCBFF" font-size="10" font-weight="700" letter-spacing="1.5">MAKE IT CLEAR</text>
+    </g>
+    <g transform="translate(552 142)">
+      <rect width="174" height="176" rx="15" fill="url(#panel)" stroke="#3EBFFF" stroke-opacity=".72"/>
+      <rect x=".5" y=".5" width="173" height="175" rx="14.5" stroke="#A4E9FF" stroke-opacity=".08"/>
+      <circle cx="87" cy="46" r="23" fill="#0B2639" stroke="#4BCBFF" stroke-opacity=".45"/>
+      <path d="M87 29 91 33l6-1 2 6 5 3-2 6 2 6-5 3-2 6-6-1-4 4-4-4-6 1-2-6-5-3 2-6-2-6 5-3 2-6 6 1 4-4Z" stroke="#62D4FF" stroke-width="2" stroke-linejoin="round"/>
+      <circle cx="87" cy="46" r="6" stroke="#62D4FF" stroke-width="2"/>
+      <text x="87" y="108" fill="#F4FAFF" font-size="18" font-weight="650">Systems</text>
+      <text x="87" y="133" fill="#9BB8CB" font-size="12">Secure, maintainable tools</text>
+      <text x="87" y="155" fill="#4FCBFF" font-size="10" font-weight="700" letter-spacing="1.5">BUILD FOR REUSE</text>
+    </g>
+    <g transform="translate(802 142)">
+      <rect width="174" height="176" rx="15" fill="url(#panel)" stroke="#3EBFFF" stroke-opacity=".72"/>
+      <rect x=".5" y=".5" width="173" height="175" rx="14.5" stroke="#A4E9FF" stroke-opacity=".08"/>
+      <circle cx="87" cy="46" r="23" fill="#0B2639" stroke="#4BCBFF" stroke-opacity=".45"/>
+      <rect x="80" y="30" width="14" height="10" rx="2" stroke="#62D4FF" stroke-width="2"/>
+      <rect x="67" y="53" width="13" height="10" rx="2" stroke="#62D4FF" stroke-width="2"/>
+      <rect x="94" y="53" width="13" height="10" rx="2" stroke="#62D4FF" stroke-width="2"/>
+      <path d="M87 40v7M73.5 47v6m27-6v6M73.5 47h27" stroke="#62D4FF" stroke-width="2" stroke-linecap="round"/>
+      <text x="87" y="108" fill="#F4FAFF" font-size="18" font-weight="650">Automation</text>
+      <text x="87" y="133" fill="#9BB8CB" font-size="12">Deterministic by default</text>
+      <text x="87" y="155" fill="#4FCBFF" font-size="10" font-weight="700" letter-spacing="1.5">SCALE THE REPEATABLE</text>
+    </g>
+    <g transform="translate(1052 142)">
+      <rect width="96" height="176" rx="15" fill="#121C39" stroke="#788FFF" stroke-opacity=".9"/>
+      <rect x=".5" y=".5" width="95" height="175" rx="14.5" stroke="#C2C9FF" stroke-opacity=".12"/>
+      <circle cx="48" cy="46" r="23" fill="#1B2450" stroke="#9AA7FF" stroke-opacity=".62"/>
+      <path d="M48 31v30m0-19c-3-5-11-4-13 2-5 1-6 9-1 12-1 6 7 10 12 6m2-20c3-5 11-4 13 2 5 1 6 9 1 12 1 6-7 10-12 6M42 41h-3m4 11h-4m21-11h-3m-1 11h-4" stroke="#BFC5FF" stroke-width="2" stroke-linecap="round"/>
+      <text x="48" y="108" fill="#F4F6FF" font-size="18" font-weight="650">AI</text>
+      <text x="48" y="133" fill="#B5BED5" font-size="12">Judgment when it adds value</text>
+      <text x="48" y="155" fill="#A7B2FF" font-size="10" font-weight="700" letter-spacing="1.3">EARN THE CALL</text>
+    </g>
+  </g>
+
+  <path d="M52 362h1096" stroke="#4FCBFF" stroke-opacity=".17"/>
+  <circle cx="52" cy="362" r="3" fill="#53D1FF"/>
+  <circle cx="1148" cy="362" r="3" fill="#8798FF"/>
+  <text x="600" y="401" fill="#B7CADA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing=".3" text-anchor="middle">Human judgment stays in the loop. Every layer earns its place.</text>
+  <text x="600" y="430" fill="#4E7590" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" text-anchor="middle">PEOPLE FIRST  /  PROCESS FIRST  /  DETERMINISTIC BY DEFAULT</text>
+</svg>
