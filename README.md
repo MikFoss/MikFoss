@@ -15,6 +15,7 @@ My work sits at the intersection of **enterprise solution architecture, supply c
 
 I care less about shiny technology than whether a solution is **understandable, secure, supportable, measurable, maintainable, and actually useful to the people running the business**.
 
+<p align="center">
 <table>
 <tr>
 <td width="25%" align="center">
@@ -35,7 +36,7 @@ I care less about shiny technology than whether a solution is **understandable, 
 </td>
 </tr>
 </table>
-
+</p>
 ---
 
 # Business + Technology Architecture
