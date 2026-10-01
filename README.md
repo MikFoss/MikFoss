@@ -14,10 +14,6 @@ I work across the solution lifecycle: understand how the business operates, then
 
 Microsoft's end-to-end Business Process Catalog describes work across applications, not just product modules. These scenarios are a useful map for connecting operational needs to solution design.
 
-`Acquire to Dispose` · `Case to Resolution` · `Concept to Market` · `Design to Retire` · `Forecast to Plan`<br>
-`Hire to Retire` · `Inventory to Deliver` · `Order to Cash` · `Plan to Produce` · `Source to Pay`<br>
-`Project to Profit` · `Prospect to Quote` · `Record to Report` · `Service to Deliver` · `Administer to Operate`
-
 <p align="center">
   <img src="./assets/architecture.svg" alt="Business processes inform solution architecture, which connects Dynamics 365, Power Platform, integration, data, development, automation, and AI capabilities." width="100%">
 </p>
