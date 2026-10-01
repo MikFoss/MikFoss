@@ -2,7 +2,8 @@
   <img src="./assets/hero.png" alt="Mike Foss, Enterprise Solution Architect: people-first, process-first, deterministic systems that bring automation and AI together." width="100%">
 </p>
 
-<p align="center"><strong>People | Process | Tecnology ." width="100%"></strong></p>
+<p align="center"><strong>People | Process | Technology</strong><br>
+<sub>Presenter &amp; Trainer · Microsoft Partner · Dynamics 365 Business Process Catalog Expert · Azure DevOps Expert</sub></p>
 
 I design enterprise systems that turn messy business reality into clear, maintainable, repeatable capability.
 My work sits at the intersection of solution architecture, supply chain, Dynamics 365 Finance & Supply Chain Management, Power Platform, automation, and AI-assisted applications. I care less about shiny technology than whether a solution is understandable, secure, supportable, measurable, and actually useful to the people running the business.
@@ -113,23 +114,70 @@ How I work
 
 ### Development
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,postgres,ts,js,react,html,css,vite,nextjs,tailwind,githubactions" alt="Development skills: Python, SQL, TypeScript, JavaScript, React, HTML5, CSS3, Vite, Next.js, Tailwind, GitHub Actions" />
+</p>
+
 `Python` · `SQL` · `VBA` · `TypeScript` · `JavaScript` · `React` · `HTML` · `CSS` · `Vite` · `Next.js` · `Tailwind` · `GitHub Actions`
 
-### Data + Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Data Analysis` · `Data Modeling` · `ETL` · `Data Transformation` · `Excel` · `Power Query` · `Power BI` · `Reporting` · `Visualization`
+### 📊 Data + Analytics
+*Operational records &rarr; Trusted decision intelligence*
 
-### Automation + AI
+├─ **Architecture &amp; Modeling**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `SQL` · `Data Modeling` · `Data Analysis`<br>
+├─ **Pipelines &amp; Transformation**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `ETL` · `Data Transformation` · `Power Query`<br>
+└─ **Reporting &amp; Visibility**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Power BI` · `Excel` · `Reporting` · `Visualization`
 
-`AI-assisted applications` · `Agents` · `MCP` · `Tool orchestration` · `Workflow automation` · `Human-in-the-loop systems` · `Deterministic automation` · `Prompt / context engineering` · `Evals`
+</td>
+<td width="50%" valign="top">
 
-### Architecture + Delivery
+### 🤖 Automation + AI
+*Deterministic by default · Intelligence when judgment adds value*
 
-`Enterprise Architecture` · `Solution Architecture` · `Business Analysis` · `Process Design` · `Requirements Engineering` · `Fit-to-Standard` · `Fit/Gap Analysis` · `Integration Design` · `Security` · `Testing` · `Documentation` · `Implementation Strategy` · `Governance`
+├─ **Agentic &amp; Context Systems**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `MCP` · `Agents` · `Prompt / context engineering`<br>
+├─ **Orchestration &amp; Governance**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Tool orchestration` · `Human-in-the-loop systems` · `Evals`<br>
+└─ **Repeatable Execution**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Deterministic automation` · `Workflow automation` · `AI-assisted applications`
 
-### Supply Chain + Operations
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Warehousing` · `Distribution` · `Manufacturing` · `Inventory` · `Procurement` · `Demand Planning` · `Supply Planning` · `Replenishment` · `Transportation` · `Order Management` · `Product Management` · `Costing`
+### 🏛️ Architecture + Delivery
+*Business intent &rarr; Scalable, governed enterprise capability*
+
+├─ **Strategy &amp; Scoping**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Business Analysis` · `Requirements Engineering` · `Fit-to-Standard` · `Fit/Gap Analysis`<br>
+├─ **System Architecture**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Enterprise Architecture` · `Solution Architecture` · `Process Design` · `Integration Design`<br>
+└─ **Governance &amp; Quality**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Governance` · `Security` · `Testing` · `Documentation` · `Implementation Strategy`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Supply Chain + Operations
+*Physical operations &harr; Enterprise ERP transactions*
+
+├─ **Warehousing &amp; Fulfillment**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Warehousing` · `Distribution` · `Transportation`<br>
+├─ **Planning &amp; Replenishment**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Demand Planning` · `Supply Planning` · `Replenishment`<br>
+└─ **Manufacturing &amp; Control**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└─ `Manufacturing` · `Inventory` · `Procurement` · `Order Management` · `Product Management` · `Costing`
+
+</td>
+</tr>
+</table>
 
 ## Elsewhere
 
