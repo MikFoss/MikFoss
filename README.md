@@ -121,8 +121,8 @@ React · TypeScript · Vite · Next.js · Tailwind · Power Apps · Power Automa
 AI / Automation
 MCP · Agents · Skills · Human-in-the-loop workflows · Evals · Deterministic orchestration · Prompt-to-software conversion
 Elsewhere
-- 🌐 fossome.net
-- 💼 LinkedIn: add your preferred profile URL here
+- 🌐 Website: [Fossome](https://fossome.net)
+- 💼 LinkedIn: [Mike Foss](https://www.linkedin.com/in/mike-foss-5507a235/)
 - 🧭 GitHub: you are already here
 <p align="center">
   <sub>Architecture is where business intent stops being a slide and starts becoming a system.</sub>
